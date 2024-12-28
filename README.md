@@ -1,7 +1,6 @@
 <h2 align="center"> Welcome! </h2>
 
-* I am a software engineer in the United Kingdom <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="20" />.I’m a Solution Engineer passionate about coding, self-motivated to explore new technologies, and always eager to learn. Currently I am working for:
-  * <b>Coveo</b>
+* I am a software engineer based in London🇬🇧. I’m a Solution Engineer passionate about coding, self-motivated to explore new technologies, and always eager to learn.
 
 * Feel Free to checkout my <a href="" target="_blank"> portfolio website </a> to know more about me!, and let's connect on <a href="https://www.linkedin.com/in/chenbing-liu/" target="_blank"> LinkedIn ☺️ </a>
 
@@ -18,10 +17,10 @@
 
 <h3 align="center">📈 GITHUB STATS SUMMARY 📉</h3> 
 <div align="center">
-  <a href="#"><img alt="Samson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sarahovo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" height="192px" /></a>
+  <a href="#"><img alt="Sarah's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=sarahovo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&rank_icon=github" height="192px" /></a>
   <a href="#">    <img title="🔥 Safo's streak! Boy on fire!!!" alt="DenverCoder1's streak" src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=sarahovo&theme=monokai-metallian&hide_border=true" /></a>
  <!-- the graph comes here-->
-   <a href="#"><img alt="Samson's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="#"><img alt="Sarah's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=sarahovo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </div>
   <br/>
