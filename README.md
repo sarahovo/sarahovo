@@ -1,6 +1,6 @@
-<h2 align="center"> Welcome! </h2>
+<h2 align="center"> 👋 Hi there! Welcome to my GitHub profile! </h2>
 
-* I am a software engineer based in London🇬🇧. I’m a Solution Engineer passionate about coding, self-motivated to explore new technologies, and always eager to learn.
+* I’m a Solution Engineer passionate about coding, self-motivated to explore new technologies, and always eager to learn! Based in London🇬🇧
 
 * Feel Free to checkout my <a href="" target="_blank"> portfolio website </a> to know more about me!, and let's connect on <a href="https://www.linkedin.com/in/chenbing-liu/" target="_blank"> LinkedIn ☺️ </a>
 
