@@ -1,9 +1,9 @@
-<h2 align="center"> Heeyyyyy </h2>
+<h2 align="center"> Welcome! </h2>
 
-* I am a software engineer in the United Kingdom <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="20" />. I have worked for these companies as a developer:
+* I am a software engineer in the United Kingdom <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK Flag" width="30" height="20" />.I’m a Solution Engineer passionate about coding, self-motivated to explore new technologies, and always eager to learn. Currently I am working for:
   * <b>Coveo</b>
 
-* Feel Free to checkout my <a href="https://safosamson.me/about" target="_blank"> portfolio website </a> to know more about me!, and let's connect on <a href="https://www.linkedin.com/in/safosamson/" target="_blank"> LinkedIn 😉</a>
+* Feel Free to checkout my <a href="" target="_blank"> portfolio website </a> to know more about me!, and let's connect on <a href="https://www.linkedin.com/in/chenbing-liu/" target="_blank"> LinkedIn ☺️ </a>
 
 <!-- Social badges section -->
 <p align="center">
